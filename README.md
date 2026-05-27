@@ -1,10 +1,10 @@
 <!-- Header Banner -->
+<!-- Header Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2b55,100:1a1a2e&height=120&section=header&text=Hima%20Chhatbar&fontColor=c9b8ff&fontSize=42&fontAlignY=65&animation=fadeIn&desc=B.Tech+Computer+Engineering+%7C+Marwadi+University&descAlignY=85&descSize=14&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2b55,100:1a1a2e&height=120&section=header&text=Hima%20-%20figuring%20out%20life%20in%20python%20and%20broken%20english%20%F0%9F%92%BB&fontColor=c9b8ff&fontSize=26&fontAlignY=65&animation=fadeIn&textAlign=50" width="100%"/>
 
 </div>
-
 ---
 
 <!-- Static tagline -->
