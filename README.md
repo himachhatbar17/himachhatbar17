@@ -17,7 +17,7 @@
 <!-- Typing SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C9B8FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+%F0%9F%92%BB;Deep+Learning+Explorer+%F0%9F%A7%A0;Building+things+that+(sometimes)+work+%F0%9F%94%A7;Debugging+since+day+one+%F0%9F%90%9E)](https://git.io/typing-svg)
+(https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C9B8FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+%F0%9F%92%BB;Deep+Learning+Explorer+%F0%9F%A7%A0;Building+things+that+(sometimes)+work+%F0%9F%94%A7;Debugging+since+day+one+%F0%9F%90%9E)](https://git.io/typing-svg)
 
 </div>
 
