@@ -147,7 +147,6 @@ class Hima:
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=himachhatbar17&style=for-the-badge&color=2d2b55&label=PROFILE+VIEWS&labelColor=1a1a2e)
 
 </div>
 
