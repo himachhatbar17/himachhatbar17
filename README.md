@@ -1,24 +1,17 @@
 <!-- Header Banner -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   somewhere between a bug and a breakthrough                 ║
-║   → still figuring it out, loudly                           ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2b55,100:1a1a2e&height=120&section=header&text=Hima%20Chhatbar&fontColor=c9b8ff&fontSize=42&fontAlignY=65&animation=fadeIn&desc=himachhatbar17&descAlignY=85&descSize=14&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2b55,100:1a1a2e&height=120&section=header&text=Hima%20Chhatbar&fontColor=c9b8ff&fontSize=42&fontAlignY=65&animation=fadeIn&desc=B.Tech+Computer+Engineering+%7C+Marwadi+University&descAlignY=85&descSize=14&descColor=a8d8ea" width="100%"/>
 
 </div>
 
 ---
 
-<!-- Typing SVG -->
+<!-- Static tagline -->
 <div align="center">
-
-(https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C9B8FF&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student+%F0%9F%92%BB;Deep+Learning+Explorer+%F0%9F%A7%A0;Building+things+that+(sometimes)+work+%F0%9F%94%A7;Debugging+since+day+one+%F0%9F%90%9E)](https://git.io/typing-svg)
-
+<sub>💻 Computer Engineering Student &nbsp;·&nbsp; 🧠AI | ML | Deep Learning &nbsp;·&nbsp; 🌐 Web Dev</sub>
+<br/>
+<sub><i>somewhere between a bug and a breakthrough → still figuring it out, loudly 💜</i></sub>
 </div>
 
 ---
@@ -34,17 +27,15 @@
 class Hima:
     def __init__(self):
         self.name        = "Hima Chhatbar"
-        self.role        = "Computer Engineering Student"
-        self.location    = "Gujarat, India 🇮🇳"
-        self.interests   = ["Deep Learning", "Computer Vision", "Web Dev", "Open Source"]
-        self.current     = "Building a Deepfake Detection system 🕵️"
-        self.vibe        = "somewhere between a bug and a breakthrough"
+        self.languages   = ["Python", "Java", "Kotlin", "C", "JavaScript", "PHP"]
+        self.ml_stack    = ["PyTorch", "TensorFlow", "OpenCV", "Scikit-learn", "Flask", "Django"]
+        self.web_stack   = ["React.js", "HTML", "CSS", "JavaScript", "PHP"]
+        self.databases   = ["MySQL", "MongoDB", "Firebase"]
+        self.tools       = ["Git", "Power BI", "Tableau", "Android Studio", "VS Code"]
+        self.currently   = "Deepfake Detection — 99.79% AUC on 181K samples 🕵️"
 
     def say_hi(self):
-        print("Hey! Thanks for stopping by. Let's build something cool 💜")
-
-me = Hima()
-me.say_hi()
+        print("Hey! Thanks for stopping by. Let's build something cool<<<<<")
 ```
 
 ---
@@ -54,27 +45,41 @@ me.say_hi()
 
 ## ✦ &nbsp; `tech.stack` &nbsp; ✦
 
-</div>
-
-<div align="center">
-
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-%231a1a2e?style=for-the-badge&logo=python&logoColor=c9b8ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-%231a1a2e?style=for-the-badge&logo=javascript&logoColor=ffd6a5)
-![HTML5](https://img.shields.io/badge/HTML5-%231a1a2e?style=for-the-badge&logo=html5&logoColor=ffb3b3)
+![Java](https://img.shields.io/badge/Java-%231a1a2e?style=for-the-badge&logo=openjdk&logoColor=ffd6a5)
+![Kotlin](https://img.shields.io/badge/Kotlin-%231a1a2e?style=for-the-badge&logo=kotlin&logoColor=c9b8ff)
 ![C](https://img.shields.io/badge/C-%231a1a2e?style=for-the-badge&logo=c&logoColor=a8d8ea)
+![JavaScript](https://img.shields.io/badge/JavaScript-%231a1a2e?style=for-the-badge&logo=javascript&logoColor=ffd6a5)
+![PHP](https://img.shields.io/badge/PHP-%231a1a2e?style=for-the-badge&logo=php&logoColor=b5ead7)
 
-**Frameworks & Tools**
+**ML / Data**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%231a1a2e?style=for-the-badge&logo=pytorch&logoColor=ffb3b3)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%231a1a2e?style=for-the-badge&logo=tensorflow&logoColor=ffd6a5)
-![Node.js](https://img.shields.io/badge/Node.js-%231a1a2e?style=for-the-badge&logo=node.js&logoColor=b5ead7)
-![React](https://img.shields.io/badge/React-%231a1a2e?style=for-the-badge&logo=react&logoColor=a8d8ea)
-![Jupyter](https://img.shields.io/badge/Jupyter-%231a1a2e?style=for-the-badge&logo=jupyter&logoColor=ffd6a5)
+![OpenCV](https://img.shields.io/badge/OpenCV-%231a1a2e?style=for-the-badge&logo=opencv&logoColor=b5ead7)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%231a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=ffd6a5)
+![Pandas](https://img.shields.io/badge/Pandas-%231a1a2e?style=for-the-badge&logo=pandas&logoColor=c9b8ff)
+![NumPy](https://img.shields.io/badge/NumPy-%231a1a2e?style=for-the-badge&logo=numpy&logoColor=a8d8ea)
+
+**Web & Backend**
+
+![React](https://img.shields.io/badge/React.js-%231a1a2e?style=for-the-badge&logo=react&logoColor=a8d8ea)
+![Flask](https://img.shields.io/badge/Flask-%231a1a2e?style=for-the-badge&logo=flask&logoColor=e8d5ff)
+![Django](https://img.shields.io/badge/Django-%231a1a2e?style=for-the-badge&logo=django&logoColor=b5ead7)
+![HTML5](https://img.shields.io/badge/HTML5-%231a1a2e?style=for-the-badge&logo=html5&logoColor=ffb3b3)
+![MySQL](https://img.shields.io/badge/MySQL-%231a1a2e?style=for-the-badge&logo=mysql&logoColor=a8d8ea)
+![MongoDB](https://img.shields.io/badge/MongoDB-%231a1a2e?style=for-the-badge&logo=mongodb&logoColor=b5ead7)
+![Firebase](https://img.shields.io/badge/Firebase-%231a1a2e?style=for-the-badge&logo=firebase&logoColor=ffd6a5)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-%231a1a2e?style=for-the-badge&logo=git&logoColor=ffb3b3)
-![Linux](https://img.shields.io/badge/Linux-%231a1a2e?style=for-the-badge&logo=linux&logoColor=c9b8ff)
-![Nginx](https://img.shields.io/badge/Nginx-%231a1a2e?style=for-the-badge&logo=nginx&logoColor=b5ead7)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%231a1a2e?style=for-the-badge&logo=androidstudio&logoColor=b5ead7)
+![Power BI](https://img.shields.io/badge/Power%20BI-%231a1a2e?style=for-the-badge&logo=powerbi&logoColor=ffd6a5)
+![Tableau](https://img.shields.io/badge/Tableau-%231a1a2e?style=for-the-badge&logo=tableau&logoColor=a8d8ea)
+![VS Code](https://img.shields.io/badge/VS%20Code-%231a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=c9b8ff)
 
 </div>
 
@@ -109,8 +114,31 @@ me.say_hi()
 
 [![FaceVeil](https://github-readme-stats.vercel.app/api/pin/?username=himachhatbar17&repo=Faceveil-Deepfake-Detection-&bg_color=1a1a2e&title_color=c9b8ff&text_color=e8d5ff&icon_color=a8d8ea&border_color=2d2b55&border_radius=12)](https://github.com/himachhatbar17/Faceveil-Deepfake-Detection-)
 [![Coders Section](https://github-readme-stats.vercel.app/api/pin/?username=himachhatbar17&repo=CODERS_SECTION&bg_color=1a1a2e&title_color=c9b8ff&text_color=e8d5ff&icon_color=a8d8ea&border_color=2d2b55&border_radius=12)](https://github.com/himachhatbar17/CODERS_SECTION)
-
 [![Expense Splitter](https://github-readme-stats.vercel.app/api/pin/?username=himachhatbar17&repo=EXPENSE_SPLITTER&bg_color=1a1a2e&title_color=ffd6a5&text_color=e8d5ff&icon_color=b5ead7&border_color=2d2b55&border_radius=12)](https://github.com/himachhatbar17/EXPENSE_SPLITTER)
+
+> 🤖 **FaceVeil** — Trimodal deep learning (Spatial + FFT + Optical Flow) · Adaptive Gated Fusion · **99.79% AUC** on 181K samples
+>
+> 📱 **Lost & Found App** — Android app for campus lost items using Firebase · [View on Play Store](https://play.google.com/store/apps/details?id=com.marwadiuniversity.lostandfound)
+>
+> 💸 **Expense Splitter** — Full-stack .NET web app with auth, balance calc & settlement tracking
+
+</div>
+
+---
+
+<!-- Certifications -->
+<div align="center">
+
+## ✦ &nbsp; `certifications` &nbsp; ✦
+
+</div>
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI%20–%20Simplilearn-%231a1a2e?style=flat-square&logoColor=ffd6a5&logo=powerbi&labelColor=2d2b55&color=1a1a2e)
+![SQL](https://img.shields.io/badge/Databases%20%26%20SQL%20–%20Infosys-%231a1a2e?style=flat-square&logo=mysql&logoColor=a8d8ea&labelColor=2d2b55&color=1a1a2e)
+![ML Python](https://img.shields.io/badge/ML%20with%20Python%20–%20Infosys-%231a1a2e?style=flat-square&logo=python&logoColor=c9b8ff&labelColor=2d2b55&color=1a1a2e)
+![Data Science](https://img.shields.io/badge/Data%20Science%20Essentials%20–%20Cisco-%231a1a2e?style=flat-square&logo=cisco&logoColor=b5ead7&labelColor=2d2b55&color=1a1a2e)
 
 </div>
 
@@ -136,6 +164,7 @@ me.say_hi()
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hima--chhatbar-%231a1a2e?style=for-the-badge&logo=linkedin&logoColor=a8d8ea)](https://www.linkedin.com/in/hima-chhatbar-36788a287/)
 [![GitHub](https://img.shields.io/badge/GitHub-himachhatbar17-%231a1a2e?style=for-the-badge&logo=github&logoColor=c9b8ff)](https://github.com/himachhatbar17)
+[![Gmail](https://img.shields.io/badge/Gmail-himachhalbar13-%231a1a2e?style=for-the-badge&logo=gmail&logoColor=ffb3b3)](mailto:himachhalbar13@gmail.com)
 
 <br/>
 
@@ -150,6 +179,6 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2b55,100:1a1a2e&height=90&section=footer" width="100%"/>
 
-*`// still compiling... please wait`* 💜
+*`// still compiling... please wait`* 
 
 </div>
