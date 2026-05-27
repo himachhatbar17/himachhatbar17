@@ -11,7 +11,7 @@
 <div align="center">
 <sub>💻 Computer Engineering Student &nbsp;·&nbsp; 🧠AI | ML | Deep Learning &nbsp;·&nbsp; 🌐 Web Dev</sub>
 <br/>
-<sub><i>somewhere between a bug and a breakthrough → still figuring it out, loudly 💜</i></sub>
+<sub><i>"turning 'what if's into 'what's next'"</i></sub>
 </div>
 
 ---
