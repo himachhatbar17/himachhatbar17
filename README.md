@@ -122,27 +122,6 @@ class Hima:
 >
 > 💸 **Expense Splitter** — Full-stack .NET web app with auth, balance calc & settlement tracking
 
-</div>
-
----
-
-<!-- Certifications -->
-<div align="center">
-
-## ✦ &nbsp; `certifications` &nbsp; ✦
-
-</div>
-
-<div align="center">
-
-![Power BI](https://img.shields.io/badge/Power%20BI%20–%20Simplilearn-%231a1a2e?style=flat-square&logoColor=ffd6a5&logo=powerbi&labelColor=2d2b55&color=1a1a2e)
-![SQL](https://img.shields.io/badge/Databases%20%26%20SQL%20–%20Infosys-%231a1a2e?style=flat-square&logo=mysql&logoColor=a8d8ea&labelColor=2d2b55&color=1a1a2e)
-![ML Python](https://img.shields.io/badge/ML%20with%20Python%20–%20Infosys-%231a1a2e?style=flat-square&logo=python&logoColor=c9b8ff&labelColor=2d2b55&color=1a1a2e)
-![Data Science](https://img.shields.io/badge/Data%20Science%20Essentials%20–%20Cisco-%231a1a2e?style=flat-square&logo=cisco&logoColor=b5ead7&labelColor=2d2b55&color=1a1a2e)
-
-</div>
-
----
 
 <!-- Contribution Graph -->
 <div align="center">
