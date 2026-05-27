@@ -9,7 +9,7 @@
 
 <!-- Static tagline -->
 <div align="center">
-<sub>💻 Computer Engineering Student &nbsp;·&nbsp; 🧠AI | ML | Deep Learning &nbsp;·&nbsp; 🌐 Web Dev</sub>
+<sub>💻Security &nbsp;·&nbsp; 🧠AI | ML | Deep Learning &nbsp;·&nbsp; 🌐 Web Dev</sub>
 <br/>
 <sub><i>"turning 'what if's into 'what's next'"</i></sub>
 </div>
@@ -27,12 +27,10 @@
 class Hima:
     def __init__(self):
         self.name        = "Hima Chhatbar"
-        self.languages   = ["Python", "Java", "Kotlin", "C", "JavaScript", "PHP"]
-        self.ml_stack    = ["PyTorch", "TensorFlow", "OpenCV", "Scikit-learn", "Flask", "Django"]
-        self.web_stack   = ["React.js", "HTML", "CSS", "JavaScript", "PHP"]
-        self.databases   = ["MySQL", "MongoDB", "Firebase"]
-        self.tools       = ["Git", "Power BI", "Tableau", "Android Studio", "VS Code"]
+        self.role        = "Computer Engineering Student building intelligent systems for real-world impact"
+        self.status      = "Learning • Building • Evolving 🚀"
         self.currently   = "Deepfake Detection — 99.79% AUC on 181K samples 🕵️"
+
 
     def say_hi(self):
         print("Hey! Thanks for stopping by. Let's build something cool<<<<<")
