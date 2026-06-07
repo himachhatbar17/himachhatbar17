@@ -1,160 +1,120 @@
-<!-- Header Banner -->
-<!-- Header Banner -->
+<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2b55,100:1a1a2e&height=120&section=header&text=Hima%20-%20figuring%20out%20life%20in%20python%20and%20broken%20english%20%F0%9F%92%BB&fontColor=c9b8ff&fontSize=26&fontAlignY=65&animation=fadeIn&textAlign=50" width="100%"/>
+```
+git commit -m 'trying my best'
+```
+
+# Hima Chhatbar
+
+**Computer Engineering Student · Gujarat, India**
+
+*somewhere between overfitting and giving up.*
+
+![AI/ML](https://img.shields.io/badge/AI%20%2F%20ML-%237F77DD?style=flat-square&logoColor=white)
+![Security](https://img.shields.io/badge/Security-%23534AB7?style=flat-square&logoColor=white)
+![Full-Stack Web Dev](https://img.shields.io/badge/Full--Stack%20Web%20Dev-%233C3489?style=flat-square&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%23AFA9EC?style=flat-square&logoColor=white)
+![Multimedia Forensics](https://img.shields.io/badge/Multimedia%20Forensics-%23CECBF6?style=flat-square&logoColor=white&color=7F77DD)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
 
 </div>
+
 ---
 
-<!-- Static tagline -->
-<div align="center">
-<sub>💻Security &nbsp;·&nbsp; 🧠AI | ML | Deep Learning &nbsp;·&nbsp; 🌐 Web Dev</sub>
-<br/>
-<sub><i>"turning 'what if's into 'what's next'"</i></sub>
-</div>
+## `about`
 
----
-
-<!-- About Section -->
-<div align="center">
-
-## ✦ &nbsp; `whoami` &nbsp; ✦
-
-</div>
-
-```python
-class Hima:
-    def __init__(self):
-        self.name        = "Hima Chhatbar"
-        self.role        = "Computer Engineering Student building intelligent systems for real-world impact"
-        self.status      = "Learning • Building • Evolving 🚀"
-        self.currently   = "Deepfake Detection — 99.79% AUC on 181K samples 🕵️"
-
-
-    def say_hi(self):
-        print("Hey! Thanks for stopping by. Let's build something cool<<<<<")
+```yaml
+role      : computer engineering student
+focus     : AI / ML · security · full-stack web dev · multimedia forensics
+approach  : turning caffeine and curiosity into working code, slowly.
+status    : open to collabs, research chats, good playlists
 ```
 
 ---
 
-<!-- Tech Stack -->
-<div align="center">
+## `tech`
 
-## ✦ &nbsp; `tech.stack` &nbsp; ✦
+**Programming**
 
-**Languages**
+![C](https://img.shields.io/badge/C-%235C6BC0?style=flat-square&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23B07219?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-%231a1a2e?style=for-the-badge&logo=python&logoColor=c9b8ff)
-![Java](https://img.shields.io/badge/Java-%231a1a2e?style=for-the-badge&logo=openjdk&logoColor=ffd6a5)
-![Kotlin](https://img.shields.io/badge/Kotlin-%231a1a2e?style=for-the-badge&logo=kotlin&logoColor=c9b8ff)
-![C](https://img.shields.io/badge/C-%231a1a2e?style=for-the-badge&logo=c&logoColor=a8d8ea)
-![JavaScript](https://img.shields.io/badge/JavaScript-%231a1a2e?style=for-the-badge&logo=javascript&logoColor=ffd6a5)
-![PHP](https://img.shields.io/badge/PHP-%231a1a2e?style=for-the-badge&logo=php&logoColor=b5ead7)
+**Python Libraries**
 
-**ML / Data**
+![NumPy](https://img.shields.io/badge/NumPy-%234DABCF?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C?style=flat-square&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%233C7EBB?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20?style=flat-square&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-%232196A8?style=flat-square&logoColor=white)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%231a1a2e?style=for-the-badge&logo=pytorch&logoColor=ffb3b3)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%231a1a2e?style=for-the-badge&logo=tensorflow&logoColor=ffd6a5)
-![OpenCV](https://img.shields.io/badge/OpenCV-%231a1a2e?style=for-the-badge&logo=opencv&logoColor=b5ead7)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%231a1a2e?style=for-the-badge&logo=scikit-learn&logoColor=ffd6a5)
-![Pandas](https://img.shields.io/badge/Pandas-%231a1a2e?style=for-the-badge&logo=pandas&logoColor=c9b8ff)
-![NumPy](https://img.shields.io/badge/NumPy-%231a1a2e?style=for-the-badge&logo=numpy&logoColor=a8d8ea)
+**Web Development**
 
-**Web & Backend**
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%238892BF?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React.js-%2361DAFB?style=flat-square&logo=react&logoColor=black)
 
-![React](https://img.shields.io/badge/React.js-%231a1a2e?style=for-the-badge&logo=react&logoColor=a8d8ea)
-![Flask](https://img.shields.io/badge/Flask-%231a1a2e?style=for-the-badge&logo=flask&logoColor=e8d5ff)
-![Django](https://img.shields.io/badge/Django-%231a1a2e?style=for-the-badge&logo=django&logoColor=b5ead7)
-![HTML5](https://img.shields.io/badge/HTML5-%231a1a2e?style=for-the-badge&logo=html5&logoColor=ffb3b3)
-![MySQL](https://img.shields.io/badge/MySQL-%231a1a2e?style=for-the-badge&logo=mysql&logoColor=a8d8ea)
-![MongoDB](https://img.shields.io/badge/MongoDB-%231a1a2e?style=for-the-badge&logo=mongodb&logoColor=b5ead7)
-![Firebase](https://img.shields.io/badge/Firebase-%231a1a2e?style=for-the-badge&logo=firebase&logoColor=ffd6a5)
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**APIs & Version Control**
+
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-%236D4AFF?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-%231a1a2e?style=for-the-badge&logo=git&logoColor=ffb3b3)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%231a1a2e?style=for-the-badge&logo=androidstudio&logoColor=b5ead7)
-![Power BI](https://img.shields.io/badge/Power%20BI-%231a1a2e?style=for-the-badge&logo=powerbi&logoColor=ffd6a5)
-![Tableau](https://img.shields.io/badge/Tableau-%231a1a2e?style=for-the-badge&logo=tableau&logoColor=a8d8ea)
-![VS Code](https://img.shields.io/badge/VS%20Code-%231a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=c9b8ff)
-
-</div>
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-%231F4E79?style=flat-square&logo=tableau&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833?style=flat-square&logo=anaconda&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=android-studio&logoColor=black)
 
 ---
 
-<!-- GitHub Stats -->
-<div align="center">
+## `projects`
 
-## ✦ &nbsp; `git.stats` &nbsp; ✦
-
-<br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=himachhatbar17&show_icons=true&theme=transparent&bg_color=1a1a2e&title_color=c9b8ff&text_color=e8d5ff&icon_color=a8d8ea&border_color=2d2b55&border_radius=12&hide_border=false&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himachhatbar17&layout=compact&theme=transparent&bg_color=1a1a2e&title_color=c9b8ff&text_color=e8d5ff&border_color=2d2b55&border_radius=12&langs_count=6"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=himachhatbar17&theme=transparent&background=1a1a2e&border=2d2b55&stroke=c9b8ff&ring=a8d8ea&fire=ffd6a5&currStreakNum=e8d5ff&sideNums=e8d5ff&currStreakLabel=c9b8ff&sideLabels=c9b8ff&dates=7a7a9a&border_radius=12" height="165em"/>
-
-</div>
+| Project | What it does | Stack |
+|---|---|---|
+| **Lost & Found App** | Android app helping students report and find lost items on campus. Firebase database connectivity, user-friendly search features. [↗ Play Store](https://play.google.com/store/apps/details?id=com.marwadiuniversity.lostandfound) | Kotlin · Firebase · Android Studio |
+| **FaceVeil** | Multi-Modal Spatio-Temporal-Frequency Transformer for deepfake detection in multimedia forensics. Trimodal framework (Spatial + FFT + Optical Flow) with Adaptive Gated Fusion and Cross-Stream Transformer. Benchmarked on 181K samples — **99.79% AUC** | PyTorch · OpenCV · Jupyter |
+| **Expense Splitter** | Web-based expense management and bill-splitting app using .NET. Features user authentication, expense recording, automatic balance calculation, and settlement tracking — full-stack with a clean UI | .NET · HTML · CSS · JS |
 
 ---
 
-<!-- Featured Projects -->
-<div align="center">
-
-## ✦ &nbsp; `pinned.work` &nbsp; ✦
-
-</div>
+## `contributions`
 
 <div align="center">
 
-[![FaceVeil](https://github-readme-stats.vercel.app/api/pin/?username=himachhatbar17&repo=Faceveil-Deepfake-Detection-&bg_color=1a1a2e&title_color=c9b8ff&text_color=e8d5ff&icon_color=a8d8ea&border_color=2d2b55&border_radius=12)](https://github.com/himachhatbar17/Faceveil-Deepfake-Detection-)
-[![Coders Section](https://github-readme-stats.vercel.app/api/pin/?username=himachhatbar17&repo=CODERS_SECTION&bg_color=1a1a2e&title_color=c9b8ff&text_color=e8d5ff&icon_color=a8d8ea&border_color=2d2b55&border_radius=12)](https://github.com/himachhatbar17/CODERS_SECTION)
-[![Expense Splitter](https://github-readme-stats.vercel.app/api/pin/?username=himachhatbar17&repo=EXPENSE_SPLITTER&bg_color=1a1a2e&title_color=ffd6a5&text_color=e8d5ff&icon_color=b5ead7&border_color=2d2b55&border_radius=12)](https://github.com/himachhatbar17/EXPENSE_SPLITTER)
-
-> 🤖 **FaceVeil** — Trimodal deep learning (Spatial + FFT + Optical Flow) · Adaptive Gated Fusion · **99.79% AUC** on 181K samples
->
-> 📱 **Lost & Found App** — Android app for campus lost items using Firebase · [View on Play Store](https://play.google.com/store/apps/details?id=com.marwadiuniversity.lostandfound)
->
-> 💸 **Expense Splitter** — Full-stack .NET web app with auth, balance calc & settlement tracking
-
+<!-- Streak Stats -->
+<br/>
+<img src="https://streak-stats.demolab.com?user=himachhatbar17&hide_border=true&background=0d1117&ring=534AB7&fire=7F77DD&currStreakLabel=AFA9EC&sideLabels=AFA9EC&dates=AFA9EC&currStreakNum=EEEDFE&sideNums=EEEDFE&stroke=534AB7" height="160"/>
 
 <!-- Contribution Graph -->
-<div align="center">
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himachhatbar17&bg_color=0d1117&color=7F77DD&line=534AB7&point=AFA9EC&area=true&area_color=534AB7&hide_border=true" width="100%"/>
 
-## ✦ &nbsp; `contribution.graph` &nbsp; ✦
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himachhatbar17&bg_color=1a1a2e&color=c9b8ff&line=2d2b55&point=a8d8ea&area=true&area_color=2d2b55&hide_border=false&border_color=2d2b55&radius=12" width="95%"/>
-
-</div>
 
 ---
 
-<!-- Connect Section -->
 <div align="center">
 
-## ✦ &nbsp; `reach.me` &nbsp; ✦
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hima--chhatbar-%231a1a2e?style=for-the-badge&logo=linkedin&logoColor=a8d8ea)](https://www.linkedin.com/in/hima-chhatbar-36788a287/)
-[![GitHub](https://img.shields.io/badge/GitHub-himachhatbar17-%231a1a2e?style=for-the-badge&logo=github&logoColor=c9b8ff)](https://github.com/himachhatbar17)
-[![Gmail](https://img.shields.io/badge/Gmail-himachhalbar13-%231a1a2e?style=for-the-badge&logo=gmail&logoColor=ffb3b3)](mailto:himachhalbar13@gmail.com)
-
-<br/>
-
-
-</div>
-
----
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:2d2b55,100:1a1a2e&height=90&section=footer" width="100%"/>
-
-*`// still compiling... please wait`* 
+*the bugs were features all along.*
 
 </div>
